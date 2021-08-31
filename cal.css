@@ -1,0 +1,58 @@
+header{
+    padding: 40px;
+    text-align: center;
+    background-clip:border-box;
+    background-image: url("cc.jpg");
+}
+header h1 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    background-color: #333;
+    overflow: hidden;
+    color: rgb(255, 247, 247);
+    text-align: center;
+    padding: 30px;
+    font-size: 25px;
+}
+nav a{
+    float: left;
+    color: white;
+
+}
+nav a:hover{
+    color: rgb(240, 119, 119);
+}
+main{
+    padding: 30px;
+    
+}
+th{
+    background-image: url("hh.jpg");
+    border-radius: 40px;
+    
+}
+table,tr,th,td{
+    border: 0px ;
+    
+    height: 50%;
+    padding: 15px;
+    margin: 30px;
+    color: white;
+    font-size: 20px;
+    font-family:sans-serif;
+    background-color: gainsboro;
+    border-radius: 40px;
+    text-align: center;
+    margin-left: 17%;
+}
+td{
+    background-color: #333;
+    border-radius: 40px;
+}
+.he{
+    width: 70%;
+}
